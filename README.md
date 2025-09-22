@@ -33,8 +33,8 @@ This project replicates a modern digital agency landing page
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/modern-agency-landing.git
-cd modern-agency-landing
+git clone https://github.com/ziyin-worku/web-develop-w-8-deploy.git
+cd web-develop-w-8-deployment
 ```
 
 ### 2. Open in browser
@@ -53,7 +53,7 @@ Simply open `index.html` in your browser to preview the site.
 
 ## 🌐 Live Demo
 
-(You can add a GitHub Pages link here once deployed.)
+https://web-develop-w-8-deployment.vercel.app/
 
 ---
 
